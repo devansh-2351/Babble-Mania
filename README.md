@@ -46,3 +46,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 Initial build :-
 
 https://media.giphy.com/media/xHGLvhkvBvwlN9t7F3/giphy.gif
+https://media.giphy.com/media/xHGLvhkvBvwlN9t7F3/giphy.gif
